@@ -11,3 +11,7 @@ body {
     width: 30px;
     height: 30px;
 }
+
+.change-background {
+    background-color: rgb(202, 62, 62);
+}
